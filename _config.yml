@@ -2,8 +2,8 @@
 name: "Humanities Data Inquiry"
 title: "Home"
 description: "Website of the Humanities Data Inquiry Project, hosted by the University of Lethbridge Humanities Innovation Lab."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/HDITempLogo.png'
+favicon: 'assets/images/HDITempLogo.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: ''
 disqus: ''
