@@ -48,7 +48,8 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 2
+# this controls how many items appear in the blgo section
+paginate: 6
 paginate_path: /page:num/
     
 # Other
