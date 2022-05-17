@@ -3,7 +3,7 @@ layout: post
 title:  "Publishing open humanities data: The experience of the Journal of Open Humanities Data (Barbara McGillivray)"
 author: dan
 categories: [ lectures, events, JOHD ]
-image: assets/images/mcGillivray.jpg
+image: assets/images/mcGillvray.jpg
 featured: true
 hidden: false
 ---
