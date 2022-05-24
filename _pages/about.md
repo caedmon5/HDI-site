@@ -32,6 +32,18 @@ The initial project team includes leaders in international HCH and data research
 
 The important thing about this project, however, is the opportunity it provides for these organisations to engage reciprocally with the HCH research community. The goal is to assist HCH researchers in learning about Open and FAIR principles and help our partners understand how this community can be better served by their infrastructure, policies, and tools. The individual team members have extensive experience in building such communities, including in several cases with previous SSHRC funding.
 
+# SCHOLARLY BENEFITS
+
+* **ENHANCED RESEARCH METHODS:** The thoughtful adaptation of Open and FAIR RDM principles and infrastructure represent a new approach to the management of HCH research data and, in as much as they makes use of standardised reference and identification systems and permanent, professionally maintained repository systems, offer to greatly improve the survivability and long-term impact of HCH data (DISCOVER).
+* **ENHANCED COLLABORATION:** The overall goal of this project is to create a Community of Practice to promote grass-roots awareness and development of Open and FAIR research practices. Our specific activities — developing a Working/Special Interest Group (DISCOVER), promoting and supporting inter-project collaboration and sharing of resources (DEMONSTRATE), and creating and delivering workshops and summer schools for the dissemination of the resulting best practice (MOBILISE) are all intended to promote new collaboration among HCH researchers and projects and between the HCH research community and the organisations responsible for developing and supporting Open and FAIR RDM.
+
+# SOCIAL BENEFITS
+
+* **ENRICHED PUBLIC DISCOURSE:** The protection and preservation of Cultural Research Data is an intrinsic good that helps enrich public discourse. This is true even for data — such as that created by and for Indigenous communities — for which a STEM-oriented approach to Open RDM is inappropriate. Community focussed data-centric HCH projects have traditionally faced the same hurdles with regard to management, dissemination, and maintenance. Ensuring that such projects are able to serve their communities for the foreseeable future while reducing the overall costs is an important public benefit (DISCOVER).
+* **CULTURAL OUTCOMES:** Ensuring that HCH research data is Findable, Accessible, Interoperable, and Reusable — whether this means to the world at large or to a specific community — is an important cultural outcome: a project that goes dark because its infrastructure is unsustainable is a project that is failing in its obligation to ensure that community members have access to and benefit from their cultural heritage. By encouraging HCH projects to improve their RDM and ensure that cultural data remains available and accessible, this project will significantly improve the ability of HCH researchers to give back to their communities (DEMONSTRATE).
+* **TECHNOLOGICAL OUTCOMES:** Current Open and FAIR infrastructure has been designed largely to suit the needs of researchers working with “Big Data” in Science, Technology, Engineering, and Mathematics. By creating the conditions for dialogue between “Small Data” HCH researchers and Open and FAIR organisations, this project will improve the technological practice of both the HCH researchers and the Open and FAIR organisations (DISCOVER/MOBILISE).
+
+
 </div>
 
 <div class="col-md-4">
