@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p><b>Humanities Data Inquiry (HDI)</b> is a [Social Science and Humanities Research-Council (SSHRC)](http://sshrc.ca) community of practice and network of projects and laboratories dedicated to understanding the role of data in traditional humanities research and publication workflows.</p>
+<p><b>Humanities Data Inquiry (HDI)</b> is a <a href="https://www.sshrc-crsh.gc.ca/">Social Science and Humanities Research-Council (SSHRC)</a>-funded community of practice and network of projects and laboratories dedicated to understanding the role of data in traditional humanities research and publication workflows.</p>
 
 <p>A premise of the project is that Humanities researchers understands and uses what other disciplines call data in (at times) fundamentally different ways from that found in those other disciplines: it is (often) produced through argument rather than experimentation and, as Christine Borgman argues, the definition of data is often a valuable act of Humanities research in its own right.</p>
 
