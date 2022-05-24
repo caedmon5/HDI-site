@@ -57,6 +57,18 @@ comments: true
 
 <p>You join HDI by <a href="http://listserv.uleth.ca/mailman/listinfo/good-things-pdg-l">subscribing to its (currently low volume) mailing list</a>.</p>
 
+<h5>Resources</h5>
+
+<p>You can access presentations, papers, and the narrative sections of the original grant application in the HDI Zenodo repository.</p>
+
+<h5>Colophon</h5>
+
+<p>HDI is funded by a SSHRC Partnership Development Grant (2021-2024). It is hosted at the University of Lethbridge in the Humanities Innovation Lab. The leads are </p>
+<ul><li>Daniel Paul O'Donnell</li>
+<li>Barbara Bordalejo</li>
+<li>Nathan Woods</li>
+</ul>
+
 
 </div>
 </div>
