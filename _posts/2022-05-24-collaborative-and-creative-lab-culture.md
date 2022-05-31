@@ -12,13 +12,13 @@ A discussion about developing and working within a constructive and collaborativ
 
 [Register on Zoom](https://us06web.zoom.us/meeting/register/tZclcu-hrjMpEtAZP46gQe81L2r9ijE0XSb5)
 
-**Speakers:
+** Speakers:
 
     Louise Barrett, Professor of Psychology and Canada Research Chair in Cognition, Evolution, and Behaviour at the University of Lethbridge.
     Jamal Mansour, Associate Professor of Psychology (Eye-witness identification), University of Lethbridge.
     Locke Spencer, Assistant Professor of Physics, Canada Research Chair in Experimental Astrophysics, University of Lethbridge.
     Rob Sutherland, Professor of Neuroscience, University of Lethbridge.
 
-**About the roundtable:
+** About the roundtable:
 
 The purpose of this roundtable is to gain an interdisciplinary understanding of the lab as a collaborative and creative space. Our panel are distinguished scientists at the University of Lethbridge who have experience running and/or working in a variety of lab contexts. In this session they will discuss their experiences, provide tips, and generally share their knowledge and experience with lab science.
