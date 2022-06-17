@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Students' Participation in Humanities Research Projects: Three Case Studies from Italy. Alessandra Molinari"
+pullquote: "A lecture presenting notes from the field on developing a participatory approach to student research."
 author: dan
 categories: [ lectures, events ]
 image: assets/images/Alessandra.png
@@ -8,6 +9,8 @@ event: true
 featured: true
 hidden: false
 datetime: "June 29, 2022. 1400-1600 UTC"
+zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
+ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"
 ---
 
 A lecture presenting notes from the field on developing a participatory approach to student research. 

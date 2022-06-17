@@ -1,0 +1,25 @@
+/*! from here: https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/future-dates.html -->
+*
+* see this for a discussion: 
+*
+* http://jekyllcodex.org/without-plugin/future-dates/#
+*
+* and 
+*
+* https://stackoverflow.com/questions/7087376/comparing-dates-in-liquid
+*/
+
+    function getCompareDate() {
+        var d = new Date(),
+            month = '' + (d.getMonth() + 1),
+            day = '' + d.getDate(),
+            year = d.getFullYear();
+        if (month.length < 2) month = '0' + month;
+        if (day.length < 2) day = '0' + day;
+        return [year, month, day].join('');
+    }
+    var elements = document.querySelectorAll('[future-date]');
+    Array.prototype.forEach.call(elements, function(el, i){
+        if(el.getAttribute('future-date').split('-').join('') < getCompareDate()) el.remove();
+    });
+
