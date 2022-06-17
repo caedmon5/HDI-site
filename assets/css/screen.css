@@ -89,7 +89,7 @@ section.recent-posts {
     margin-bottom: 0rem;
 }
 
-@media (min-width:100px) {
+@media (min-width:576px) {
     .card-columns.listfeaturedtag {
         -webkit-column-count: 4;
         -moz-column-count: 4;
