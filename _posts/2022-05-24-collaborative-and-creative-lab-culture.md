@@ -7,6 +7,11 @@ image: assets/images/creativeLabCulture.jpg
 event: true
 featured: true
 hidden: false
+eventdate: "2022-06-01"
+eventstartUTC: "1400"
+eventendUTC: "1600"
+zoomlink: ""
+ics: ""
 ---
 
 A discussion about developing and working within a constructive and collaborative lab culture. [June 1, 2022. 1400-1600 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=1&hour=14&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264)

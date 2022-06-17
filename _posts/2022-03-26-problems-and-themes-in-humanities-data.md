@@ -7,6 +7,11 @@ image: assets/images/nathan.jpeg
 event: true
 featured: false
 hidden: false
+eventdate: "2022-04-27"
+eventstartUTC: "1400"
+eventendUTC: "1600"
+zoomlink: ""
+ics: ""
 ---
 
 A seminar led by Nathan Woods on Humanities Data as discussed in several important readings. [April 27, 2022 1400-1600 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=4&day=27&hour=14&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264)
