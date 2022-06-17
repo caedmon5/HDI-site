@@ -7,6 +7,7 @@ image: assets/images/Alessandra.png
 event: true 
 featured: false
 hidden: false
+datetime: "June 29, 2022. 1400-1600 UTC"
 ---
 
 A lecture presenting notes from the field on developing a participatory approach to student research. 
