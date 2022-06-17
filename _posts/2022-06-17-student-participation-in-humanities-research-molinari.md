@@ -8,7 +8,9 @@ image: assets/images/Alessandra.png
 event: true 
 featured: true
 hidden: false
-datetime: "June 29, 2022. 1400-1600 UTC"
+eventdate: "2022-06-29"
+eventstartUTC: "1400"
+eventendUTC: "1600"
 zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
 ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"
 ---
