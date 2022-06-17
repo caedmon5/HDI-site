@@ -1,8 +1,8 @@
 <!-- begin date and location information -->
 {% if page.event == true %}
     <div class="eventtime">
-        {% if page.eventdate %}
-        <h4 class="card-text"><a href="https://www.timeanddate.com/worldclock/meetingdetails.html?year={{ post.eventdate | date:"%Y" }}&month={{ post.eventdate | date:"%m" }}&day={{ post.eventdate | date:"%d" }}&hour={{ post.eventstartUTC | date:"%H" }}&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264">{{ page.eventdate | date: "%B %e, %Y"}}.
+        {% if page.eventdate %
+        <h4 class="card-text"><a href="https://www.timeanddate.com/worldclock/meetingdetails.html?year={{ page.eventdate | date:"%Y" }}&month={{ page.eventdate | date:"%m" }}&day={{ page.eventdate | date:"%d" }}&hour={{ page.eventstartUTC | date:"%H" }}&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264">{{ page.eventdate | date: "%B %e, %Y"}}.
             {% if page.eventstartUTC %} {{ page.eventstartUTC }}
             {% if page.eventendUTC %}-{{ page.eventendUTC }} UTC
             {% endif %}
