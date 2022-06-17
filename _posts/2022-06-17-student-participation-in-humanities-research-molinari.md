@@ -13,6 +13,8 @@ A lecture presenting notes from the field on developing a participatory approach
 
 [Register on Zoom](https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO)
 
+[Add to your calendar (.ics)](https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics)
+
 ## Abstract
 Although Italy has participated in the European Higher Education Area (EHEA) since its very beginning, higher education at Italian universities is still being pursued through a top-down didactic approach and a quality assurance system that seem to contradict the principles of student-centred learning and teaching. However, these are foundational within the educational program of the EHEA, as they foster students’ initiative and self-commitment both along their curricular pathways and later on in life.
 
