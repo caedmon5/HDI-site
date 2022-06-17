@@ -4,6 +4,7 @@ title:  "Editing Texts in Multiple Versions (Peter Robinson)"
 author: dan
 categories: [ lectures, events, textual communities ]
 image: assets/images/robinson.png
+event: true
 featured: true
 hidden: false
 ---
