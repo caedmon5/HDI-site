@@ -1,0 +1,23 @@
+<!-- begin date and location information -->
+{% if post.event == "true" %}
+    <div class="eventtime">
+        {% if post.eventdate %}
+        <h4 class="card-text"><a href="https://www.timeanddate.com/worldclock/meetingdetails.html?year={{ post.eventdate | date:"%Y" }}&month={{ post.eventdate | date:"%m" }}&day={{ post.eventdate | date:"%d" }}&hour={{ post.eventstartUTC | date:"%H" }}&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264">{{ post.eventdate | date: "%B %e, %Y"}}.
+            {% if post.eventstartUTC %} {{ post.eventstartUTC }}
+            {% if post.eventendUTC %}-{{ post.eventendUTC }} UTC
+            {% endif %}
+            {% endif %}</a>
+        </h4>
+        {% endif %}
+    </div>
+    <div class="eventlocation">
+        {% if post.zoomlink %}
+        <h4 class="card-text"><a href="{{ post.zoomlink }}">Registration link</a>.</h4>
+        {% endif %}
+    </div>
+    <div class="eventlocation">
+        {% if post.ics %}
+        <h4 class="card-text"><a href="{{ post.ics }}">Calendar link (ics)</a>.</h4>
+        {% endif %}
+    </div>
+{% endif %}

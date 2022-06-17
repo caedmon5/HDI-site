@@ -60,6 +60,11 @@ post_class: post-template
 
             {% endif %}
             <!-- End Featured Image -->
+                
+                <!-- add time-place if event -->
+                {% if post.event == "true" %}
+                    {% include placetime.html %}
+                {% endif %}
 
             <!-- Post Content -->
             <div class="article-post">
