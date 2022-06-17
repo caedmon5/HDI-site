@@ -22,8 +22,8 @@
                         <div class="card-body">
                             {% if post.eventdate %}
                                 <h4 class="card-text">{{ post.eventdate | date: "%B %e, %Y"}}.
-                                    {% if post.eventstartUTC %} {{ post.eventstart }}
-                                        {% if post.eventendUTC %}-{{ post.eventend }} UTC}}
+                                    {% if post.eventstartUTC %} {{ post.eventstartUTC }}
+                                        {% if post.eventendUTC %}-{{ post.eventendUTC }} UTC
                                         {% endif %}
                                     {% endif %}
                             </h4>
