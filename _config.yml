@@ -4,7 +4,7 @@ title: "Home"
 description: "Website of the Humanities Data Inquiry Project, hosted by the University of Lethbridge Humanities Innovation Lab."
 logo: 'assets/images/HDITempLogo.png'
 favicon: 'assets/images/HDITempLogo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /HDI-site
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -29,7 +29,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "."
 
 # Plugins
 plugins:
