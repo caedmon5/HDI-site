@@ -4,7 +4,8 @@ title:  "The creative, collaborative lab. A round table."
 author: dan
 categories: [ lectures, events ]
 image: assets/images/creativeLabCulture.jpg
-featured: true
+event: true
+featured: false
 hidden: false
 ---
 

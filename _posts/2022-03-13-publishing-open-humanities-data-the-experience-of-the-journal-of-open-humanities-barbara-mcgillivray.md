@@ -4,7 +4,8 @@ title:  "Publishing open humanities data: The experience of the Journal of Open 
 author: dan
 categories: [ lectures, events, JOHD ]
 image: assets/images/mcGillvray.jpg
-featured: true
+event: false
+featured: false
 hidden: false
 ---
 
