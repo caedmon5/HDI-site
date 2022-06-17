@@ -4,7 +4,8 @@ title:  "Students' Participation in Humanities Research Projects: Three Case Stu
 author: dan
 categories: [ lectures, events ]
 image: assets/images/Alessandra.png
-featured: true
+event: true 
+featured: false
 hidden: false
 ---
 
