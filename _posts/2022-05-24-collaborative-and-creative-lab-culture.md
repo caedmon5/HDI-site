@@ -5,7 +5,7 @@ author: dan
 categories: [ lectures, events ]
 image: assets/images/creativeLabCulture.jpg
 event: true
-featured: false
+featured: true
 hidden: false
 ---
 

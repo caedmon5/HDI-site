@@ -16,8 +16,12 @@ title: Home
     {% for post in site.posts %}
 
         {% if post.event == true %}
+        
+            {% if post.featured == true %}
 
-            {% include eventbox.html %}
+                {% include eventbox.html %}
+                
+            {% endif %}
 
         {% endif %}
 

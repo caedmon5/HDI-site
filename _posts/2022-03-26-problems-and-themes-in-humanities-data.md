@@ -4,7 +4,7 @@ title:  "Problems and Themes in Humanities Data: Humanities Data Reading Group"
 author: dan
 categories: [ reading group, events ]
 image: assets/images/nathan.jpeg
-event: false
+event: true
 featured: false
 hidden: false
 ---

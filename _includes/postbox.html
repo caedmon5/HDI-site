@@ -17,6 +17,13 @@
             </a>
         </div>
         <div class="card-body">
+            {% if post.event == true %}
+            <h4 class="card-text">Event
+                {% if post.datetime %}
+                {{ post.datetime }}
+                {% endif %}
+            </h4>
+            {% endif %}
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {% if post.rating %}
