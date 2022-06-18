@@ -15,12 +15,6 @@ zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5y
 ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"
 ---
 
-[June 29, 2022. 1400-1600 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=29&hour=14&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264)
-
-[Register on Zoom](https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO)
-
-[Add to your calendar (.ics)](https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics)
-
 ## Abstract
 Although Italy has participated in the European Higher Education Area (EHEA) since its very beginning, higher education at Italian universities is still being pursued through a top-down didactic approach and a quality assurance system that seem to contradict the principles of student-centred learning and teaching. However, these are foundational within the educational program of the EHEA, as they foster students’ initiative and self-commitment both along their curricular pathways and later on in life.
 
