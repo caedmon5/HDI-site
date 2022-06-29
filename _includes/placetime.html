@@ -11,15 +11,19 @@
         </h4>
         {% endif %}
     </div>
-    <div class="eventlocation">
+    {% if page.DOI %}
+    <div class="DOI">
+        DOI for recording/slides/etc. <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>
+        {% else %}
         {% if page.zoomlink %}
+        <div class="eventlocation">
         <h4 class="card-text"><a href="{{ page.zoomlink }}">Link to register</a></h4>
-        {% endif %}
     </div>
-    <div class="eventlocation">
+        {% endif %}
         {% if page.ics %}
+        <div class="eventlocation">
         <h4 class="card-text"><a href="{{ page.ics }}">Add to calendar (.ics download/subscribe)</a></h4>
+    </div>
         {% endif %}
     </div>
-</div>
 {% endif %}
