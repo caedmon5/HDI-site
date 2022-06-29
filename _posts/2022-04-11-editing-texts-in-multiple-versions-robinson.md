@@ -12,7 +12,7 @@ eventdate: "2022-05-11"
 eventstartUTC: "1400"
 eventendUTC: "1530"
 zoomlink: ""
-DOI: "https://doi.org/10.5281/zenodo.6762263"
+DOI: "10.5281/zenodo.6762263"
 ics: ""
 ---
 
