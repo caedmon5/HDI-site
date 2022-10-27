@@ -4,7 +4,7 @@ title: "Handmade Data: Reflections on Data Containers. Nikki Stevens."
 pullquote: "Nikki Stevens examines the shape of digital data in the context of software creation."
 author: dan
 categories: [ lectures, events ]
-image: assets/images/Stevens.jpg
+image: assets/images/Stevens.png
 event: true 
 featured: true
 hidden: false
