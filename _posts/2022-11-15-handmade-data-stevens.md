@@ -12,7 +12,9 @@ eventdate: "2022-11-15"
 eventstartUTC: "1400"
 eventendUTC: "1600"
 zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
-ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"---
+ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"
+
+---
 
 # Handmade Data: Reflections on Data Containers. 
 ## Speaker: Dr. Nikki Stevens
