@@ -6,7 +6,7 @@ author: dan
 categories: [ lectures, events ]
 image: assets/images/Stevens.png
 event: true 
-featured: true
+featured: false
 hidden: false
 eventdate: "2022-11-15"
 eventstartUTC: "1400"
