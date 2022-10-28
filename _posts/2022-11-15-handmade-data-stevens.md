@@ -5,9 +5,9 @@ pullquote: "Nikki Stevens examines the shape of digital data in the context of s
 author: dan 
 categories: [ lectures, events ] 
 image: assets/images/Stevens.png 
-event: true 
-featured: true 
-hidden: false 
+event:true 
+featured:true 
+hidden:false 
 eventdate: "2022-11-15" 
 eventstartUTC: "1400" 
 eventendUTC: "1600" 
