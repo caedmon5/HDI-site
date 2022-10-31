@@ -6,7 +6,7 @@ author: dan
 categories: [ lectures, events ]
 image: assets/images/creativeLabCulture.jpg
 event: true
-featured: true
+featured: false
 hidden: false
 eventdate: "2022-06-01"
 eventstartUTC: "1400"
