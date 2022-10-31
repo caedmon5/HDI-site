@@ -23,34 +23,38 @@
                             {% if post.eventdate %}
                                 <h4 class="card-text">{{ post.eventdate | date: "%B %e, %Y"}}.
                                     {% if post.eventstartUTC %} {{ post.eventstartUTC }}
-                                        {% if post.eventendUTC %}-{{ post.eventendUTC }} UTC
-                                        {% endif %}
+                                        {% if post.eventendUTC %}-{{ post.eventendUTC }}
+                                        {% endif %} UTC
                                     {% endif %}
                             </h4>
                             {% endif %}
                             <h2 class="card-title">
                                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                                 {% if post.rating %}
-                                <div class="mb-2 mt-2 font-weight-normal">
-                                {% include star_rating_postbox.html %}
-                                </div>
+                                    <div class="mb-2 mt-2 font-weight-normal">
+                                        {% include star_rating_postbox.html %}
+                                    </div>
                                 {% endif %}
                             </h2>
 
-                            <h4 class="card-text">{% if post.pullquote %}{{ post.pullquote | truncatewords:30 }}{% else %}{{ post.excerpt | strip_html | truncatewords:25 }}{% endif %}</h4>
+                            <h4 class="card-text">{% if post.pullquote %}
+                                                        {{ post.pullquote | truncatewords:30 }}
+                                                  {% else %}
+                                                        {{ post.excerpt | strip_html | truncatewords:25 }}
+                                                {% endif %}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
                                 {% if post.author %}
-                                <span class="meta-footer-thumb">
-                                {% if author.avatar %}
-                                <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                                {% else %}
-                                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-                                {% endif %}
-                                </span>
-                                <span class="author-meta">
-                                <span class="post-name">Posted by <a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                                    <span class="meta-footer-thumb">
+                                        {% if author.avatar %}
+                                            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                                        {% else %}
+                                            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                                        {% endif %}
+                                    </span>
+                                    <span class="author-meta">
+                                    <span class="post-name">Posted by <a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
                                 {% endif %}
                                 <span class="post-date">{{ post.date | date: "%B %e, %Y"}}</span>
                                 </span>
