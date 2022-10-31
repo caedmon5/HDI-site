@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Handmade Data: Reflections on Data Containers. Nikki Stevens"
+title: "Handmade Data: Reflections on Data Containers. Nikki Stevens"
 pullquote: "Nikki Stevens examines the shape of digital data in the context of software creation"
 author: dan
 categories: [ lectures, events ]
-image: assets/images/Stevens.png
+image: assets/images/Alessandra.png
 event: true
 featured: true
 hidden: false
 eventdate: "2022-11-15"
 eventstartUTC: "1400"
 eventendUTC: "1600"
-zoomlink: ""
-ics: ""
+zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
+ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"
 ---
 
 <!--- debug nikki 1 -->
