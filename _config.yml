@@ -22,14 +22,14 @@ authors:
     web: http://people.uleth.ca/~daniel.odonnell/
     twitter: https://twitter.com/danielpaulOD
     description: "Professor of English at the University of Lethbridge."
-  john:
-    name: John
-    display_name: John    
+  khalid:
+    name: Iftekhar Khalid
+    display_name: Khalid 
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
     description: "."
 
 # Plugins
@@ -49,7 +49,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-# this controls how many items appear in the blgo section
+# this controls how many items appear in the blog section
 paginate: 6
 paginate_path: /page:num/
     
