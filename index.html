@@ -8,11 +8,6 @@ title: Home
 <!-- Events
 ================================================== -->
 
-    {% for post in site.posts %}
-
-        {% if post.event == true %}
-
-            {% if post.featured == true %}
 
                 <section class="featured-posts">
                     <div class="section-title">
@@ -22,19 +17,26 @@ title: Home
                         <h2><span>Recent and upcoming events (<a href="categories#events">view all</a>)</span></h2>
                     </div>
                     <div class="row">
+                        {% for post in site.posts %}
+                        
+                            {% if post.event == true %}
+                        
+                                {% if post.featured == true %}
 
-                    {% include eventbox.html %}
+                                    {% include eventbox.html %}
+
+                                {% endif %}
+
+                            {% endif %}
+                            
+                        {% endfor %}
+                            
 
                     </div>
                 </section>
 
-            {% endif %}
 
-        {% endif %}
 
-    {% endfor %}
-
-{% endif %}
                     <!-- Blog entries
 ================================================== -->
     
@@ -85,7 +87,9 @@ title: Home
     </div>
 
 </section>
-                    
+
+{% endif %}
+
 
                     
 <!-- Pagination
