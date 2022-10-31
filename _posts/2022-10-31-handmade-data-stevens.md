@@ -11,8 +11,8 @@ hidden: false
 eventdate: "2022-11-15"
 eventstartUTC: "1500"
 eventendUTC: "1700"
-zoomlink: ""
-ics: ""
+zoomlink: "https://us06web.zoom.us/meeting/register/tZEvcO-vrD0oG9QFHLT2uZYxcSIrLnji43MV"
+ics: "https://us06web.zoom.us/meeting/tZEvcO-vrD0oG9QFHLT2uZYxcSIrLnji43MV/ics"
 ---
 
 <!--- debug nikki 1 -->
