@@ -1,26 +1,33 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="col-md-6 mb-30px card-group">
+    <!--- Eventbox 1 -->
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
             <div class="col-12 col-md-12 col-lg-4 pr-lg-0">
                 <div class="h-100">
+                    <!--- Eventbox 2 -->
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
                             {% if site.lazyimages == "enabled" %}
+                            <!--- Eventbox 3 -->
                             <img class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
                             {% else %}
+                                <!--- Eventbox 4 -->
                             <img class="featured-box-img-cover" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
                             {% endif %}
                         </a>
                     </div>
                 </div>
             </div>
+            <!--- Eventbox 5 -->
             <div class="col-12 col-md-12 col-lg-7">
                 <div class="h-100 card-group">
+                    <!--- Eventbox 6 -->
                     <div class="card">
                         <div class="card-body">
                             {% if post.eventdate %}
+                            <!--- Eventbox 7 -->
                                 <h4 class="card-text">{{ post.eventdate | date: "%B %e, %Y"}}.
                                     {% if post.eventstartUTC %} {{ post.eventstartUTC }}
                                         {% if post.eventendUTC %}-{{ post.eventendUTC }}
@@ -28,24 +35,35 @@
                                     {% endif %}
                             </h4>
                             {% endif %}
+                            <!--- Eventbox 8 -->
                             <h2 class="card-title">
                                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                                 {% if post.rating %}
+                                <!--- Eventbox 9 -->
                                     <div class="mb-2 mt-2 font-weight-normal">
                                         {% include star_rating_postbox.html %}
                                     </div>
                                 {% endif %}
                             </h2>
-
+                            <!--- Eventbox 10 -->
+                            
                             <h4 class="card-text">{% if post.pullquote %}
                                                         {{ post.pullquote | truncatewords:30 }}
+                                <!--- Eventbox 11 -->
+                                
                                                   {% else %}
                                                         {{ post.excerpt | strip_html | truncatewords:25 }}
+                                <!--- Eventbox 12 -->
+                                
                                                 {% endif %}</h4>
                         </div>
+                        <!--- Eventbox 13 -->
+                        
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
                                 {% if post.author %}
+                                <!--- Eventbox 14 -->
+                                
                                     <span class="meta-footer-thumb">
                                         {% if author.avatar %}
                                             <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
