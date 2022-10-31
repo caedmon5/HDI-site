@@ -8,7 +8,7 @@ image: assets/images/Alessandra.png
 event: true
 featured: true
 hidden: false
-eventdate: "2022-11-15"
+eventdate: "2022-10-31"
 eventstartUTC: "1400"
 eventendUTC: "1600"
 zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
