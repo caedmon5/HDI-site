@@ -15,7 +15,7 @@ zoomlink: ""
 ics: "" 
 ---
 
-
+<!--- debug nikki 1 -->
 # Handmade Data: Reflections on Data Containers. 
 ## Speaker: Dr. Nikki Stevens
 
