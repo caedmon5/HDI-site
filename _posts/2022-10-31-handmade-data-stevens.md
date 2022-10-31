@@ -9,8 +9,8 @@ event: true
 featured: true
 hidden: false
 eventdate: "2022-11-15"
-eventstartUTC: "1400"
-eventendUTC: "1600"
+eventstartUTC: "1500"
+eventendUTC: "1700"
 zoomlink: ""
 ics: ""
 ---
