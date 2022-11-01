@@ -1,7 +1,7 @@
 # Site
 name: "Humanities Data Inquiry"
 title: "Home"
-description: "Website of the Humanities Data Inquiry Project, hosted by the <a href="https://humanitiesinnovationlab.ca">University of Lethbridge Humanities Innovation Lab</a>."
+description: "Website of the Humanities Data Inquiry Project, hosted by the <a href='https://humanitiesinnovationlab.ca'>University of Lethbridge Humanities Innovation Lab</a>."
 logo: 'assets/images/156HDIFinch.png'
 favicon: 'assets/images/HDIFinchSquare.ico'
 baseurl: 
