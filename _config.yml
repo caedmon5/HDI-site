@@ -25,12 +25,12 @@ authors:
   khalid:
     name: Iftekhar Khalid
     display_name: Khalid 
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/International-3.jpg'
     gravatar: 
-    email: 
-    web: 
-    twitter: 
-    description: "."
+    email: khalid@uleth.ca
+    web: https://khalidfac.wixsite.com/iftekharkhalid
+    twitter: https://twitter.com/akmkhalid
+    description: "Graduate Student at the University of Lethbridge"
 
 # Plugins
 plugins:
